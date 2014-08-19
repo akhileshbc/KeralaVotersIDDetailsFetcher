@@ -41,3 +41,6 @@ if( $details !== false )	// check whether the fetching was successful
 	var_dump( $details );
 }
 ```
+## Screenshot
+
+![](http://i.imgur.com/vxDIIYt.png)
