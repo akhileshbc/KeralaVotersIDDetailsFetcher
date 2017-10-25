@@ -1,5 +1,7 @@
-# Kerala Voter's ID Details Fetcher
-	
+# Kerala Voter's ID Details Fetcher [DEPRECIATED]
+
+**Am no longer maintaining this project**
+
 For one of my projects, the client suggested to add a facility to validate user supplied Voter's ID number. 
 Manual verification was a tedious task since there are lots of users and the client wants it to be automated.
 Since I wasn't aware of any existing API of Kerala Election Commision, 
